@@ -1,0 +1,16 @@
+Credentials to use SATM application.
+
+PAN: 4802785779
+PIN: 1991
+
+
+PAN: 9876543210
+PIN: 1992
+
+
+PAN: 0123456789
+PIN: 1990
+
+
+PAN: 1234567890
+PIN: 1989
